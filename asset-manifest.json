@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/updated-exercise-app/static/css/main.f855e6bc.css",
+    "main.js": "/updated-exercise-app/static/js/main.981a3500.js",
+    "index.html": "/updated-exercise-app/index.html",
+    "main.f855e6bc.css.map": "/updated-exercise-app/static/css/main.f855e6bc.css.map",
+    "main.981a3500.js.map": "/updated-exercise-app/static/js/main.981a3500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.981a3500.js"
+  ]
+}
